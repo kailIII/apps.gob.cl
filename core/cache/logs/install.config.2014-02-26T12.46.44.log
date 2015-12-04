@@ -1,0 +1,2 @@
+[2014-02-26 12:46:44] (ERROR in xPDOConnection::connect @ /var/www/apps.gob.cl/core/xpdo/xpdo.class.php : 3054) SQLSTATE[42000] [1049] Unknown database 'apps'
+[2014-02-26 12:46:44] (ERROR in xPDOConnection::connect @ /var/www/apps.gob.cl/core/xpdo/xpdo.class.php : 3054) SQLSTATE[42000] [1049] Unknown database 'apps'
